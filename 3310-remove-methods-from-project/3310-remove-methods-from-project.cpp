@@ -9,18 +9,7 @@ void dfs(int node, vector<bool>&sus, vector<vector<int>>&adj){
     }
 }
 
-bool dfs2(int node, vector<bool>&sus, vector<bool>&visited, vector<vector<int>>&adj){
-    if(sus[node])return true;
-    visited[node] = true;
 
-    for(int neigh:adj[node]){
-        if(!visited[neigh]){
-            if(dfs2(neigh,sus,visited,adj))return true;
-        }
-    }
-
-    return false;
-}
 
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
         vector<bool>sus(n,false);
@@ -34,15 +23,13 @@ bool dfs2(int node, vector<bool>&sus, vector<bool>&visited, vector<vector<int>>&
         vector<bool>visited(n,false);
         vector<int>ans;
 
-        for(int i=0; i<n; i++){
-            if(!sus[i] && !visited[i]){
-                if(dfs2(i,sus,visited,adj)){
-                    for(int i=0; i<n; i++){
-                        ans.push_back(i);
-                        
-                    }
-                    return ans;
+        for(auto elem:invocations){
+            if(!sus[elem[0]] && sus[elem[1]]){
+                for(int i=0; i<n; i++){
+                    ans.push_back(i);
+
                 }
+                return ans;
             }
         }
 
