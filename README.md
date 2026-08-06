@@ -35,4 +35,12 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yugank2002/LeetCode/tree/master/0743-network-delay-time) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yugank2002/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yugank2002/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
