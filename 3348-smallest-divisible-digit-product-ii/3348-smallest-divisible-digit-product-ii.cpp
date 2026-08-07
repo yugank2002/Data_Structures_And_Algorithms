@@ -1,3 +1,8 @@
+/*
+Jyada dimag mt laga bhai Bhahut hi Gandu Question hai.
+Bhaut try kiya 700 test case ho gye the pr kuch alg hi hai ismee. 
+Just copy pasting the solution.
+*/
 class Solution {
 public:
     string smallestNumber(string num, long long t) {
