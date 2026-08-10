@@ -50,6 +50,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yugank2002/LeetCode/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/yugank2002/LeetCode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
@@ -125,4 +126,12 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yugank2002/LeetCode/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
