@@ -52,11 +52,13 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0162-find-peak-element](https://github.com/yugank2002/LeetCode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/yugank2002/LeetCode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Ternary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Greedy
 |  |
 | ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yugank2002/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yugank2002/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
