@@ -19,9 +19,7 @@ public:
             }
         }
 
-        for(int elem:nums){
-            cout<<elem<<" ";
-        }
+       
 
 
         
