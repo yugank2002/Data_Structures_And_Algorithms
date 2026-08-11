@@ -38,6 +38,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Math
 |  |
 | ------- |
+| [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yugank2002/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -53,6 +54,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0053-maximum-subarray](https://github.com/yugank2002/LeetCode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/yugank2002/LeetCode/tree/master/0162-find-peak-element) |
+| [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
