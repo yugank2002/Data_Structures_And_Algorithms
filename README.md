@@ -49,6 +49,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/yugank2002/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/yugank2002/LeetCode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/yugank2002/LeetCode/tree/master/0162-find-peak-element) |
@@ -130,6 +131,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/yugank2002/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yugank2002/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Union-Find
