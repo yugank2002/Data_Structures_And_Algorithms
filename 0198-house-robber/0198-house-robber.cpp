@@ -1,17 +1,16 @@
 class Solution {
 public:
-int solve(int ind, vector<int>&arr, vector<int>&memo){
-    if(ind<0)return 0;
 
-    if(memo[ind]!=-1)return memo[ind];
-
-    int take = arr[ind]+solve(ind-2,arr,memo);
-    int notTake = solve(ind-1,arr,memo);
-
-    return memo[ind] = max(take,notTake);
-}
     int rob(vector<int>& nums) {
-        vector<int>memo(nums.size()+1,-1);
-        return solve(nums.size()-1,nums,memo);
+        
+
+        vector<int>ans(nums.size());
+        for(int i=0; i<ans.size(); i++){
+            int take = nums[i]+ ((i-2>=0)?ans[i-2]:0);
+            int notTake = (i-1>=0)?ans[i-1]:0;
+            ans[i] = max(take,notTake);
+        }
+
+        return ans[ans.size()-1];
     }
 };
