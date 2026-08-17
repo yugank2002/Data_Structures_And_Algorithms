@@ -41,6 +41,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yugank2002/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yugank2002/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yugank2002/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -61,6 +62,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yugank2002/LeetCode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yugank2002/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -115,6 +117,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0213-house-robber-ii](https://github.com/yugank2002/LeetCode/tree/master/0213-house-robber-ii) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yugank2002/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -131,6 +134,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yugank2002/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
