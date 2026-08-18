@@ -38,6 +38,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yugank2002/LeetCode/tree/master/0062-unique-paths) |
 | [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
@@ -114,6 +115,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yugank2002/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/yugank2002/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/yugank2002/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yugank2002/LeetCode/tree/master/0213-house-robber-ii) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
@@ -209,4 +211,8 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/yugank2002/LeetCode/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yugank2002/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
