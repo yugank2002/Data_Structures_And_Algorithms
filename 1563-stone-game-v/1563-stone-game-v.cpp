@@ -1,41 +1,39 @@
 class Solution {
-private:
-    vector<vector<int>> f;
-
 public:
-    int dfs(const vector<int>& stoneValue, int left, int right) {
-        if (left == right) {
-            return 0;
-        }
-        if (f[left][right]) {
-            return f[left][right];
-        }
+int solve(int start, int end, int TotalSum, vector<int>&arr, vector<vector<int>>&memo){
+    if(start==end)return TotalSum;
 
-        int sum = accumulate(stoneValue.begin() + left,
-                             stoneValue.begin() + right + 1, 0);
-        int suml = 0;
-        for (int i = left; i < right; ++i) {
-            suml += stoneValue[i];
-            int sumr = sum - suml;
-            if (suml < sumr) {
-                f[left][right] =
-                    max(f[left][right], dfs(stoneValue, left, i) + suml);
-            } else if (suml > sumr) {
-                f[left][right] =
-                    max(f[left][right], dfs(stoneValue, i + 1, right) + sumr);
-            } else {
-                f[left][right] =
-                    max(f[left][right], max(dfs(stoneValue, left, i),
-                                            dfs(stoneValue, i + 1, right)) +
-                                            suml);
-            }
+    if(memo[start][end]!=-1)return memo[start][end];
+
+    int maxi  = INT_MIN;
+    int currSum = 0;
+    for(int i=start; i<end; i++){
+        currSum+=arr[i];
+        int secondHalfSum = TotalSum-currSum;
+
+        if(currSum == secondHalfSum){
+            
+                maxi = max(maxi,solve(start,i,currSum,arr,memo));
+                maxi = max(maxi,solve(i+1,end,secondHalfSum,arr,memo));
+            
         }
-        return f[left][right];
+        else if(currSum<secondHalfSum){
+            maxi = max(maxi,solve(start,i,currSum,arr,memo));
+        }
+        else{
+            maxi = max(maxi,solve(i+1,end,secondHalfSum,arr,memo));
+        }
     }
 
+    return memo[start][end] = maxi+TotalSum;
+}
     int stoneGameV(vector<int>& stoneValue) {
         int n = stoneValue.size();
-        f.assign(n, vector<int>(n));
-        return dfs(stoneValue, 0, n - 1);
+        vector<vector<int>>memo(n+1,vector<int>(n+1,-1));
+        int sum = 0;
+        for(int elem:stoneValue){
+            sum+=elem;
+        }
+        return solve(0,n-1,sum,stoneValue,memo)-sum;
     }
 };
