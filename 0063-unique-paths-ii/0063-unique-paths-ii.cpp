@@ -1,17 +1,6 @@
 class Solution {
 public:
-int solve(int i, int j, vector<vector<int>>&obstacle){
-    if(i<0 || j<0 || obstacle[i][j])return 0;
 
-    if(i==0 && j == 0){
-        return 1;
-    }
-    
-    int up = solve(i-1,j,obstacle);
-    int left = solve(i,j-1,obstacle);
-
-    return up+left;
-}
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         if(obstacleGrid[0][0])return 0;
         int m = obstacleGrid.size();
