@@ -55,6 +55,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0041-first-missing-positive](https://github.com/yugank2002/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/yugank2002/LeetCode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/yugank2002/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/yugank2002/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/yugank2002/LeetCode/tree/master/0198-house-robber) |
@@ -117,6 +118,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0053-maximum-subarray](https://github.com/yugank2002/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/yugank2002/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/yugank2002/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/yugank2002/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yugank2002/LeetCode/tree/master/0213-house-robber-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -220,5 +222,6 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/yugank2002/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
