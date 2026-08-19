@@ -66,6 +66,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yugank2002/LeetCode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -101,6 +102,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/yugank2002/LeetCode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2498-frog-jump-ii](https://github.com/yugank2002/LeetCode/tree/master/2498-frog-jump-ii) |
@@ -170,6 +172,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0041-first-missing-positive](https://github.com/yugank2002/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yugank2002/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yugank2002/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yugank2002/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -212,6 +215,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yugank2002/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
