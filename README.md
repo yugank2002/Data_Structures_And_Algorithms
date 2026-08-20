@@ -61,6 +61,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0162-find-peak-element](https://github.com/yugank2002/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/yugank2002/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yugank2002/LeetCode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/yugank2002/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/yugank2002/LeetCode/tree/master/0493-reverse-pairs) |
 | [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -126,6 +127,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0120-triangle](https://github.com/yugank2002/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/yugank2002/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yugank2002/LeetCode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/yugank2002/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
@@ -235,4 +237,12 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yugank2002/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/yugank2002/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/yugank2002/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
