@@ -64,6 +64,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0198-house-robber](https://github.com/yugank2002/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yugank2002/LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/yugank2002/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/yugank2002/LeetCode/tree/master/0493-reverse-pairs) |
 | [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -108,6 +109,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/yugank2002/LeetCode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -122,6 +124,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yugank2002/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -192,6 +195,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yugank2002/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -252,4 +256,8 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/yugank2002/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
