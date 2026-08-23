@@ -44,6 +44,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/yugank2002/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/yugank2002/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yugank2002/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yugank2002/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -102,6 +103,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/yugank2002/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yugank2002/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yugank2002/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yugank2002/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -116,6 +118,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/yugank2002/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/yugank2002/LeetCode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2498-frog-jump-ii](https://github.com/yugank2002/LeetCode/tree/master/2498-frog-jump-ii) |
@@ -165,6 +168,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/yugank2002/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/yugank2002/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
