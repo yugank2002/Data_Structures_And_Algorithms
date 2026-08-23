@@ -68,6 +68,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0416-partition-equal-subset-sum](https://github.com/yugank2002/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/yugank2002/LeetCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/yugank2002/LeetCode/tree/master/0494-target-sum) |
 | [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -107,6 +108,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/yugank2002/LeetCode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yugank2002/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -139,6 +141,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0213-house-robber-ii](https://github.com/yugank2002/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/yugank2002/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yugank2002/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yugank2002/LeetCode/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
@@ -256,10 +259,12 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0322-coin-change](https://github.com/yugank2002/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yugank2002/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yugank2002/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/yugank2002/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yugank2002/LeetCode/tree/master/0494-target-sum) |
 ## Quicksort
 |  |
 | ------- |
