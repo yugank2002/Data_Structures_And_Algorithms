@@ -69,6 +69,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/yugank2002/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/yugank2002/LeetCode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/yugank2002/LeetCode/tree/master/0518-coin-change-ii) |
 | [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -142,6 +143,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0322-coin-change](https://github.com/yugank2002/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yugank2002/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yugank2002/LeetCode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/yugank2002/LeetCode/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
@@ -260,6 +262,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0322-coin-change](https://github.com/yugank2002/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yugank2002/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yugank2002/LeetCode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/yugank2002/LeetCode/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -273,4 +276,5 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/yugank2002/LeetCode/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/yugank2002/LeetCode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
