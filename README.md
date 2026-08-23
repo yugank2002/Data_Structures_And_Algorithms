@@ -77,6 +77,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/yugank2002/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/yugank2002/LeetCode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yugank2002/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -93,6 +94,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0162-find-peak-element](https://github.com/yugank2002/LeetCode/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/yugank2002/LeetCode/tree/master/0493-reverse-pairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/yugank2002/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2498-frog-jump-ii](https://github.com/yugank2002/LeetCode/tree/master/2498-frog-jump-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yugank2002/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -118,6 +120,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/yugank2002/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/yugank2002/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/yugank2002/LeetCode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -162,6 +165,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/yugank2002/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Game Theory
 |  |
 | ------- |
@@ -208,10 +212,12 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/yugank2002/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yugank2002/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/yugank2002/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yugank2002/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yugank2002/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Indexed Tree
