@@ -105,6 +105,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/yugank2002/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/yugank2002/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yugank2002/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yugank2002/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -152,6 +153,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0518-coin-change-ii](https://github.com/yugank2002/LeetCode/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/yugank2002/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yugank2002/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -287,4 +289,8 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0322-coin-change](https://github.com/yugank2002/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/yugank2002/LeetCode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/yugank2002/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
