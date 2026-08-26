@@ -25,24 +25,33 @@ public:
                        greater<pair<int, int>>>
             pq;
 
+        int bestSize = -1;
+        int bestInd = -1;
         while (second < track.size()) {
             int size = track[first] - track[second] + 1;
             int ind = track[second];
-            pq.push({size, ind});
+            if(bestSize == -1){
+                bestSize = size;
+                bestInd = ind;
+            }
+            else{
+                if(size<bestSize){
+                    bestSize = size;
+                    bestInd = ind;
+                }
+                else if(size==bestSize){
+                    auto[si,i]  = getStr(size, ind, bestSize, bestInd, s);
+                    bestSize = si;
+                    bestInd = i;
+                }
+            }
+            
             second++;
             first++;
         }
 
-        auto [size1, ind1] = pq.top();
-        pq.pop();
-        while (!pq.empty() && size1 == pq.top().first) {
-            auto [si, i] =
-                getStr(size1, ind1, pq.top().first, pq.top().second, s);
-            size1 = si;
-            ind1 = i;
-            pq.pop();
-        }
+      
 
-        return s.substr(ind1, size1);
+        return s.substr(bestInd, bestSize);
     }
 };
