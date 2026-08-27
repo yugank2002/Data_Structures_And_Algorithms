@@ -1,3 +1,6 @@
+/*
+since we have to find the palindrome sub sequence, if we make another string which is reversed of the original string then the problem will become to find longest common subsequence.
+*/
 class Solution {
 public:
     int longestPalindromeSubseq(string s) {
