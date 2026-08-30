@@ -79,6 +79,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0493-reverse-pairs](https://github.com/yugank2002/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/yugank2002/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yugank2002/LeetCode/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yugank2002/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yugank2002/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -146,6 +147,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0044-wildcard-matching](https://github.com/yugank2002/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yugank2002/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yugank2002/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yugank2002/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/yugank2002/LeetCode/tree/master/1927-sum-game) |
@@ -190,6 +192,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0516-longest-palindromic-subsequence](https://github.com/yugank2002/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/yugank2002/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/yugank2002/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yugank2002/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yugank2002/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/yugank2002/LeetCode/tree/master/1092-shortest-common-supersequence) |
