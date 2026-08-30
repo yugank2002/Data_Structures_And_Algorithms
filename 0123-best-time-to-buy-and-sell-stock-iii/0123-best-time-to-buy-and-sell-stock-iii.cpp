@@ -1,26 +1,17 @@
 class Solution {
 public:
-int solve(int i, int buy, bool canBuy, vector<int>&prices, vector<vector<vector<int>>>&memo){
-    if(i==prices.size())return 0;
-
-    if(buy==0 && canBuy)return 0;
-
-    if(memo[i][buy][canBuy]!=-1)return memo[i][buy][canBuy];
-
-    if(canBuy){
-        int take = -prices[i]+solve(i+1,buy-1,false,prices,memo);
-        int notTake = solve(i+1,buy,true,prices,memo);
-        return memo[i][buy][canBuy] = max(take,notTake);
-    }
-    
-    int take = prices[i]+solve(i+1,buy,true,prices,memo);
-    int notTake = solve(i+1,buy,false,prices,memo);
-
-    return memo[i][buy][canBuy] = max(take,notTake);
-}
     int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-        vector<vector<vector<int>>>memo(n+1,vector<vector<int>>(2+1,vector<int>(2,-1)));
-        return solve(0,2,true,prices,memo);
+        int buy1=INT_MIN;
+        int sell1 = 0;
+        int buy2 = INT_MIN;
+        int sell2 = 0;
+
+        for(int i=0; i<prices.size(); i++){
+            buy1 = max(buy1, -prices[i]);
+            sell1 = max(sell1, buy1 + prices[i]);
+            buy2 = max(buy2, sell1 - prices[i]);
+            sell2 = max(sell2, buy2 + prices[i]);
+        }
+        return sell2;
     }
 };
