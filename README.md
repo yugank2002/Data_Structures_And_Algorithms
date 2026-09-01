@@ -41,6 +41,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yugank2002/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/yugank2002/LeetCode/tree/master/0066-plus-one) |
 | [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
@@ -64,6 +65,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0041-first-missing-positive](https://github.com/yugank2002/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/yugank2002/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/yugank2002/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/yugank2002/LeetCode/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/yugank2002/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yugank2002/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yugank2002/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
