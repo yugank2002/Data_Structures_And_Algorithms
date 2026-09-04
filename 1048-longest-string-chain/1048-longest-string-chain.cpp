@@ -32,11 +32,17 @@ bool solve(string str1, string str2){
             }
             return a.size()<b.size();
         });
+
         int n = words.size();
+        unordered_map<int,vector<int>>mp;
+        for(int i=0; i<n; i++){
+            mp[words[i].size()].push_back(i);
+        }
+        
         vector<int>dp(n,1);
         int maxi = 1;
         for(int i=1; i<n; i++){
-            for(int j=0; j<i; j++){
+            for(auto j:mp[words[i].size()-1]){
                 if(solve(words[j],words[i]) && dp[i]<dp[j]+1){
                     dp[i] = 1+dp[j];
                     
