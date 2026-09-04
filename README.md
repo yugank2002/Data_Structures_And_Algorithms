@@ -92,6 +92,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
@@ -138,6 +139,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0115-distinct-subsequences](https://github.com/yugank2002/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/yugank2002/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yugank2002/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/yugank2002/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/yugank2002/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yugank2002/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -180,6 +182,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yugank2002/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yugank2002/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -210,6 +213,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yugank2002/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yugank2002/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/yugank2002/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/yugank2002/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -267,6 +271,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0041-first-missing-positive](https://github.com/yugank2002/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yugank2002/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yugank2002/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -285,6 +290,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/yugank2002/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yugank2002/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yugank2002/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yugank2002/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
