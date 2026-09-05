@@ -43,8 +43,8 @@ bool solve(string str1, string str2){
         int maxi = 1;
         for(int i=1; i<n; i++){
             for(auto j:mp[words[i].size()-1]){
-                if(solve(words[j],words[i]) && dp[i]<dp[j]+1){
-                    dp[i] = 1+dp[j];
+                if(solve(words[j],words[i])){
+                    dp[i] = max(dp[i],1+dp[j]);
                     
                 }
             }
