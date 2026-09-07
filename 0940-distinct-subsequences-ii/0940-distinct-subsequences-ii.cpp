@@ -2,23 +2,16 @@
 class Solution {
 public:
     int distinctSubseqII(string s) {
-        int n = s.size();
-        vector<long long>dp(n+1,0);
-        unordered_map<char,int>mp;
-        for(int i=1; i<=n;i++){
-            char c = s[i-1];
-            if(mp.find(c)==mp.end()){
-                dp[i] = (dp[i-1]*2 +1)%MOD;
-                mp[c] = i;
-            }
-            else{
-                int rep = dp[mp[c]-1];
-                dp[i] = (dp[i-1]*2 -rep + MOD)%MOD;
-                dp[i]%=MOD;
-                mp[c] = i;
-            }
+        vector<int>freq(26,0);
+        int total = 0;
+        for(char c:s){
+            int count = ((total+1)-freq[c-'a'] + MOD)%MOD;
+            total+=count;
+            total%=MOD;
+            freq[c-'a']+=count;
+            freq[c-'a']%=MOD;
         }
 
-        return dp[n]%MOD;
+        return total;
     }
 };
