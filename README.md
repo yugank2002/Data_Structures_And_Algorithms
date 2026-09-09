@@ -148,6 +148,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0940-distinct-subsequences-ii](https://github.com/yugank2002/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/yugank2002/LeetCode/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/yugank2002/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/yugank2002/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yugank2002/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1927-sum-game](https://github.com/yugank2002/LeetCode/tree/master/1927-sum-game) |
@@ -405,6 +406,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/yugank2002/LeetCode/tree/master/0044-wildcard-matching) |
+| [1106-parsing-a-boolean-expression](https://github.com/yugank2002/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 ## Linked List
 |  |
 | ------- |
@@ -414,4 +416,8 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yugank2002/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/yugank2002/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Stack
+|  |
+| ------- |
+| [1106-parsing-a-boolean-expression](https://github.com/yugank2002/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
