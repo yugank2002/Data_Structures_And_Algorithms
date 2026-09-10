@@ -72,6 +72,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0053-maximum-subarray](https://github.com/yugank2002/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/yugank2002/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/yugank2002/LeetCode/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/yugank2002/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/yugank2002/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yugank2002/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yugank2002/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -204,6 +205,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0062-unique-paths](https://github.com/yugank2002/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/yugank2002/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/yugank2002/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/yugank2002/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/yugank2002/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/yugank2002/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yugank2002/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -366,6 +368,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yugank2002/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/yugank2002/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yugank2002/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -424,6 +427,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/yugank2002/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1106-parsing-a-boolean-expression](https://github.com/yugank2002/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 ## Tree
 |  |
@@ -433,4 +437,8 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yugank2002/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/yugank2002/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
