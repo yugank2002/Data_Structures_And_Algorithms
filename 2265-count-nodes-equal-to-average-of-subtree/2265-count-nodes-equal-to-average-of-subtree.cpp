@@ -11,27 +11,28 @@
  */
 class Solution {
 public:
-vector<int> solve(TreeNode* node){
+int ans = 0;
+pair<int,int> solve(TreeNode* node){
     if(node==NULL){
-        return {0,0,0};
+        return {0,0};
     }
 
-    vector<int>left = solve(node->left);
-    vector<int>right = solve(node->right);
+    auto left = solve(node->left);
+    auto right = solve(node->right);
 
-    int avgCount = left[0]+right[0];
-    int sum = left[1]+right[1]+node->val;
-    int nodeCount = left[2]+right[2]+1;
+    
+    int sum = left.first + right.first + node->val;
+    int nodeCount = left.second + right.second + 1;
 
     if(sum/nodeCount==node->val){
-        avgCount++;
+        ans++;
     }
 
-    return {avgCount,sum,nodeCount};
+    return {sum,nodeCount};
 }
     int averageOfSubtree(TreeNode* root) {
-        vector<int>ans = solve(root);
+        auto res = solve(root);
 
-        return ans[0];
+        return ans;
     }
 };
