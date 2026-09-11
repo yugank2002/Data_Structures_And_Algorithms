@@ -11,6 +11,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/yugank2002/LeetCode/tree/master/0743-network-delay-time) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yugank2002/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/yugank2002/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -18,12 +19,14 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/yugank2002/LeetCode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/yugank2002/LeetCode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/yugank2002/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yugank2002/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/yugank2002/LeetCode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/yugank2002/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
@@ -309,6 +312,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yugank2002/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
