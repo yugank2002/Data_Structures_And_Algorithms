@@ -100,6 +100,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yugank2002/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yugank2002/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
+| [0835-image-overlap](https://github.com/yugank2002/LeetCode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/yugank2002/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -382,6 +383,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yugank2002/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/yugank2002/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/yugank2002/LeetCode/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yugank2002/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yugank2002/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
