@@ -48,6 +48,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0066-plus-one](https://github.com/yugank2002/LeetCode/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/yugank2002/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0775-global-and-local-inversions](https://github.com/yugank2002/LeetCode/tree/master/0775-global-and-local-inversions) |
+| [0836-rectangle-overlap](https://github.com/yugank2002/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
@@ -458,4 +459,8 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/yugank2002/LeetCode/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/yugank2002/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
