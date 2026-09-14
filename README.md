@@ -23,6 +23,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yugank2002/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/yugank2002/LeetCode/tree/master/0743-network-delay-time) |
+| [0994-rotting-oranges](https://github.com/yugank2002/LeetCode/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/yugank2002/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yugank2002/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -107,6 +108,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0835-image-overlap](https://github.com/yugank2002/LeetCode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/yugank2002/LeetCode/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/yugank2002/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
@@ -390,6 +392,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0733-flood-fill](https://github.com/yugank2002/LeetCode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/yugank2002/LeetCode/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/yugank2002/LeetCode/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yugank2002/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yugank2002/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
