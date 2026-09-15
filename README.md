@@ -21,6 +21,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/yugank2002/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/yugank2002/LeetCode/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/yugank2002/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
@@ -167,6 +168,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0044-wildcard-matching](https://github.com/yugank2002/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/yugank2002/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/yugank2002/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/yugank2002/LeetCode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/yugank2002/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/yugank2002/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yugank2002/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -317,6 +319,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/yugank2002/LeetCode/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/yugank2002/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -484,4 +487,8 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/yugank2002/LeetCode/tree/master/0836-rectangle-overlap) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/yugank2002/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
