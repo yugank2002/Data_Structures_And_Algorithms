@@ -11,6 +11,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/yugank2002/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yugank2002/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/yugank2002/LeetCode/tree/master/0743-network-delay-time) |
@@ -20,6 +21,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/yugank2002/LeetCode/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/yugank2002/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yugank2002/LeetCode/tree/master/0733-flood-fill) |
@@ -88,6 +90,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yugank2002/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yugank2002/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/yugank2002/LeetCode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/yugank2002/LeetCode/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yugank2002/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/yugank2002/LeetCode/tree/master/0198-house-robber) |
@@ -329,6 +332,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/yugank2002/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/yugank2002/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yugank2002/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -397,6 +401,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yugank2002/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/yugank2002/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/yugank2002/LeetCode/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/yugank2002/LeetCode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/yugank2002/LeetCode/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/yugank2002/LeetCode/tree/master/0931-minimum-falling-path-sum) |
