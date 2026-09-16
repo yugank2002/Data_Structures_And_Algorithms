@@ -21,6 +21,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/yugank2002/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/yugank2002/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/yugank2002/LeetCode/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/yugank2002/LeetCode/tree/master/0322-coin-change) |
@@ -169,6 +170,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0044-wildcard-matching](https://github.com/yugank2002/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/yugank2002/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/yugank2002/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/yugank2002/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/yugank2002/LeetCode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/yugank2002/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/yugank2002/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -191,6 +193,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/yugank2002/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/yugank2002/LeetCode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yugank2002/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -322,6 +325,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/yugank2002/LeetCode/tree/master/0041-first-missing-positive) |
+| [0126-word-ladder-ii](https://github.com/yugank2002/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/yugank2002/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
@@ -494,5 +498,6 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/yugank2002/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/yugank2002/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
