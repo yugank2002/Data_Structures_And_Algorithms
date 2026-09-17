@@ -123,6 +123,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [1140-stone-game-ii](https://github.com/yugank2002/LeetCode/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yugank2002/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yugank2002/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/yugank2002/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yugank2002/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -155,6 +156,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0493-reverse-pairs](https://github.com/yugank2002/LeetCode/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yugank2002/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yugank2002/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yugank2002/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yugank2002/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yugank2002/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2498-frog-jump-ii](https://github.com/yugank2002/LeetCode/tree/master/2498-frog-jump-ii) |
@@ -267,6 +269,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [1143-longest-common-subsequence](https://github.com/yugank2002/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/yugank2002/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yugank2002/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yugank2002/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/yugank2002/LeetCode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/yugank2002/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/yugank2002/LeetCode/tree/master/1563-stone-game-v) |
@@ -330,6 +333,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yugank2002/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yugank2002/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yugank2002/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yugank2002/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -361,6 +365,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/yugank2002/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yugank2002/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yugank2002/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yugank2002/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yugank2002/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
