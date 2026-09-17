@@ -15,6 +15,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yugank2002/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/yugank2002/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/yugank2002/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/yugank2002/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yugank2002/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/yugank2002/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -28,6 +29,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yugank2002/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/yugank2002/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/yugank2002/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/yugank2002/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yugank2002/LeetCode/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/yugank2002/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -37,6 +39,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/yugank2002/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/yugank2002/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/yugank2002/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
 |  |
@@ -348,6 +351,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/yugank2002/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/yugank2002/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/yugank2002/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yugank2002/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -505,4 +509,12 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0126-word-ladder-ii](https://github.com/yugank2002/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/yugank2002/LeetCode/tree/master/0127-word-ladder) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/yugank2002/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/yugank2002/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
