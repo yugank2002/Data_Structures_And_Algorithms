@@ -32,6 +32,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0785-is-graph-bipartite](https://github.com/yugank2002/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/yugank2002/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yugank2002/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1096-brace-expansion-ii](https://github.com/yugank2002/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/yugank2002/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yugank2002/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -191,6 +192,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0940-distinct-subsequences-ii](https://github.com/yugank2002/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/yugank2002/LeetCode/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/yugank2002/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/yugank2002/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/yugank2002/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yugank2002/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -210,6 +212,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0126-word-ladder-ii](https://github.com/yugank2002/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/yugank2002/LeetCode/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/yugank2002/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yugank2002/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -348,6 +351,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0127-word-ladder](https://github.com/yugank2002/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/yugank2002/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/yugank2002/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/yugank2002/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yugank2002/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yugank2002/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -375,6 +379,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0368-largest-divisible-subset](https://github.com/yugank2002/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/yugank2002/LeetCode/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/yugank2002/LeetCode/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/yugank2002/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yugank2002/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/yugank2002/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/yugank2002/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -506,6 +511,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/yugank2002/LeetCode/tree/master/0085-maximal-rectangle) |
+| [1096-brace-expansion-ii](https://github.com/yugank2002/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/yugank2002/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 ## Tree
 |  |
