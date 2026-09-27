@@ -195,6 +195,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [1096-brace-expansion-ii](https://github.com/yugank2002/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/yugank2002/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/yugank2002/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yugank2002/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yugank2002/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yugank2002/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/yugank2002/LeetCode/tree/master/1927-sum-game) |
@@ -513,6 +514,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0085-maximal-rectangle](https://github.com/yugank2002/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1096-brace-expansion-ii](https://github.com/yugank2002/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/yugank2002/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yugank2002/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -542,4 +544,8 @@ These solutions are intended for learning and reference purposes. If you're solv
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/yugank2002/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yugank2002/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
