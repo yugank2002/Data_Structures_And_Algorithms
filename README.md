@@ -185,6 +185,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yugank2002/LeetCode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/yugank2002/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/yugank2002/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/yugank2002/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -519,6 +520,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yugank2002/LeetCode/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/yugank2002/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1096-brace-expansion-ii](https://github.com/yugank2002/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/yugank2002/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
@@ -557,6 +559,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yugank2002/LeetCode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yugank2002/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yugank2002/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yugank2002/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
