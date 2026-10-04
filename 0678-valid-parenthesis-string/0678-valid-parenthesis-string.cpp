@@ -1,42 +1,46 @@
 class Solution {
 public:
-bool solve(int i, int open, int close, string& s, vector<vector<vector<int>>>&memo){
-    if(i==s.size()){
-        return open==close;
+    int dp[101][102];
+
+    bool solve(int i, int balance, string& s) {
+
+        if (balance < 0) return false;
+
+        if (i == s.size()) {
+            return balance == 0;
+        }
+
+        if (dp[i][balance] != -1)
+            return dp[i][balance];
+
+        bool ans = false;
+
+        if (s[i] == '(') {
+            ans = solve(i + 1, balance + 1, s);
+        }
+
+        else if (s[i] == ')') {
+            ans = solve(i + 1, balance - 1, s);
+        }
+
+        else {
+            // * as empty
+            ans = solve(i + 1, balance, s);
+
+            // * as (
+            if (!ans)
+                ans = solve(i + 1, balance + 1, s);
+
+            // * as )
+            if (!ans)
+                ans = solve(i + 1, balance - 1, s);
+        }
+
+        return dp[i][balance] = ans;
     }
 
-    if(memo[i][open][close]!=-1)return memo[i][open][close];
-
-    if(s[i]=='('){
-        if(solve(i+1,open+1,close,s,memo)){
-            return memo[i][open][close] = true;
-        }
-    }
-    else if(s[i]==')' && close<open){
-        if(solve(i+1,open,close+1,s,memo)){
-            return memo[i][open][close] = true;
-        }
-    }
-    else if(s[i]=='*'){
-        if(solve(i+1,open,close,s,memo)){
-            return memo[i][open][close] = true;
-        }
-
-        if(solve(i+1,open+1,close,s,memo)){
-            return memo[i][open][close] = true;
-        }
-
-        if(close<open && solve(i+1,open,close+1,s,memo)){
-            return memo[i][open][close] = true;
-        }
-    }
-
-    return memo[i][open][close] = false;
-
-}
     bool checkValidString(string s) {
-        int n = s.size();
-        vector<vector<vector<int>>>memo(n,vector<vector<int>>(n,vector<int>(n,-1)));
-        return solve(0,0,0,s,memo);
+        memset(dp, -1, sizeof(dp));
+        return solve(0, 0, s);
     }
 };
