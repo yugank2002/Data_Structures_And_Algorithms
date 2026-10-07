@@ -27,6 +27,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0127-word-ladder](https://github.com/yugank2002/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/yugank2002/LeetCode/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/yugank2002/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/yugank2002/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/yugank2002/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/yugank2002/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yugank2002/LeetCode/tree/master/0733-flood-fill) |
@@ -194,6 +195,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | [0126-word-ladder-ii](https://github.com/yugank2002/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/yugank2002/LeetCode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/yugank2002/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/yugank2002/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/yugank2002/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yugank2002/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/yugank2002/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -224,6 +226,7 @@ These solutions are intended for learning and reference purposes. If you're solv
 | ------- |
 | [0022-generate-parentheses](https://github.com/yugank2002/LeetCode/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/yugank2002/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/yugank2002/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/yugank2002/LeetCode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/yugank2002/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yugank2002/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
